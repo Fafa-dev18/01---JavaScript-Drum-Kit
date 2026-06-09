@@ -6,7 +6,7 @@ Uma aplicação web interativa e responsiva que transforma o teclado do computad
 
 ## 📸 Preview do Projeto
 
-![Preview do Drum Kit](<img src="./image.jpg">)
+<img src="./image.jpg">
 
 ---
 
