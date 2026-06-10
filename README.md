@@ -51,7 +51,7 @@ O projeto foi construído inteiramente com tecnologias web nativas, priorizando 
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone (https://github.com/Fafa-dev18/01---JavaScript-Drum-Kit.git)
 
 2. Acesse o diretório do projeto e abra o arquivo index.html diretamente em qualquer navegador web moderno.
 
